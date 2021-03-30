@@ -1,6 +1,5 @@
 class Queue:
-    """a queue class using a Python
-    list as its implementation"""
+    """a queue class using a Python list as its implementation"""
     def __init__(self):
         self.items = []
 
